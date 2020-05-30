@@ -1,2 +1,2 @@
-# lkp-pcd
-Lembar Kerja Praktikum - Pengantar Citra Digital
+# Archive Lembar Kerja Praktikum
+
